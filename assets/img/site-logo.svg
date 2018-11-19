@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>site-logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="site-logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-size="46">
+        <g id="Group-8" transform="translate(8.000000, 4.000000)">
+            <text id="G" font-family="AvenirNext-Medium, Avenir Next" font-weight="400" fill="#000000">
+                <tspan x="18.212" y="46">G</tspan>
+            </text>
+            <text id="D" font-family="AvenirNext-DemiBold, Avenir Next" font-weight="500" fill="#FFFFFF">
+                <tspan x="3" y="46">D</tspan>
+            </text>
+            <text id="D" font-family="AvenirNext-Medium, Avenir Next" font-weight="400" fill="#000000">
+                <tspan x="0" y="46">D</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
