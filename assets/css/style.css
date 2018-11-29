@@ -52,6 +52,8 @@ Last change: 13/03/2016
 	.secondary-button:hover{background-color:#222222;color:#ffffff;border-color:#222222;}
 	
 	.rounded-button{border-radius:30px;}
+
+	.responsive {width:100%;height:auto;}
 	
 	
 /* --- 2) HEADER --- */
