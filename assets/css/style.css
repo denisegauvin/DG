@@ -68,10 +68,11 @@ Last change: 13/03/2016
 	.menu {list-style-type:none;margin:0;clear:both;white-space:nowrap;padding-left:0px;-webkit-transition:margin .35s;transition:margin .35s}
 	.menu ul{padding:0;margin:0;list-style-type:none;}
 	.menu li {float:left;height:100%;position:relative;white-space:nowrap;}
-	.menu .menu-item > a{font-size:13px;color:#111111;float:left;text-align:center;letter-spacing:2px;text-transform:uppercase;margin:0 15px;padding:25px 0;text-decoration:none;}
+	.menu .menu-item > a{font-size:13px;color:gray;float:left;text-align:center;letter-spacing:2px;text-transform:uppercase;margin:0 15px;padding:25px 0;text-decoration:none;}
 	.menu li:last-child a{margin-right:0px;}
-	.menu > li > a:hover,.submenu-active,#header-nav .menu-item > a.active{color:#c7c7c7!important;-moz-transition:color, 0.5s, ease-in-out;-webkit-transition:color, 0.5s, ease-in-out;transition:color, 0.5s, ease-in-out;}
+	.menu > li > a:hover,.submenu-active,#header-nav .menu-item > a.active{color:#000000!important;-moz-transition:color, 0.5s, ease-in-out;-webkit-transition:color, 0.5s, ease-in-out;transition:color, 0.5s, ease-in-out;}
 	.menu  .sub-drop-icon{margin-left:5px;display:none}
+
 	
 	
 	/* -- nav drop down menus -- */
